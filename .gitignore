@@ -1,0 +1,8 @@
+#Cocoapods
+#
+Pods/
+Podfile.lock
+Pokedex.xcworkspace/
+
+#Settings
+.DS_Store
